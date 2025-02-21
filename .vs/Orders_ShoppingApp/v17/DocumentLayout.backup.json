@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hayat\\Documents\\Orders_ShoppingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D379673A-5013-466B-AED1-64A698E530AF}|Orders_ShoppingApp\\Orders_ShoppingApp.csproj|c:\\users\\hayat\\documents\\orders_shoppingapp\\orders_shoppingapp\\data\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D379673A-5013-466B-AED1-64A698E530AF}|Orders_ShoppingApp\\Orders_ShoppingApp.csproj|solutionrelative:orders_shoppingapp\\data\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379673A-5013-466B-AED1-64A698E530AF}|Orders_ShoppingApp\\Orders_ShoppingApp.csproj|c:\\users\\hayat\\documents\\orders_shoppingapp\\orders_shoppingapp\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D379673A-5013-466B-AED1-64A698E530AF}|Orders_ShoppingApp\\Orders_ShoppingApp.csproj|solutionrelative:orders_shoppingapp\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379673A-5013-466B-AED1-64A698E530AF}|Orders_ShoppingApp\\Orders_ShoppingApp.csproj|c:\\users\\hayat\\documents\\orders_shoppingapp\\orders_shoppingapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D379673A-5013-466B-AED1-64A698E530AF}|Orders_ShoppingApp\\Orders_ShoppingApp.csproj|solutionrelative:orders_shoppingapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hayat\\Documents\\Orders_ShoppingApp\\Orders_ShoppingApp\\Data\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Orders_ShoppingApp\\Data\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Hayat\\Documents\\Orders_ShoppingApp\\Orders_ShoppingApp\\Data\\OrderRepository.cs",
+              "RelativeToolTip": "Orders_ShoppingApp\\Data\\OrderRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwDMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:04:12.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Hayat\\Documents\\Orders_ShoppingApp\\Orders_ShoppingApp\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Orders_ShoppingApp\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Hayat\\Documents\\Orders_ShoppingApp\\Orders_ShoppingApp\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Orders_ShoppingApp\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:04:05.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hayat\\Documents\\Orders_ShoppingApp\\Orders_ShoppingApp\\Data\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Orders_ShoppingApp\\Data\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Hayat\\Documents\\Orders_ShoppingApp\\Orders_ShoppingApp\\Data\\CustomerRepository.cs",
+              "RelativeToolTip": "Orders_ShoppingApp\\Data\\CustomerRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:55:34.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

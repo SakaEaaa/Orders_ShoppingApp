@@ -1,0 +1,160 @@
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\appsettings.json
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.exe
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.deps.json
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.runtimeconfig.json
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.dll
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.pdb
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.AssemblyReference.cache
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.AssemblyInfoInputs.cache
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.AssemblyInfo.cs
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.Orders_ShoppingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.build.Orders_ShoppingApp.props
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Orders_ShoppingApp.props
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Orders_ShoppingApp.props
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\scopedcss\bundle\Orders_ShoppingApp.styles.css
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.CopyComplete
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.dll
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\refint\Orders_ShoppingApp.dll
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.pdb
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.genruntimeconfig.cache
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\ref\Orders_ShoppingApp.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\appsettings.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.exe
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.deps.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.runtimeconfig.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.pdb
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.AssemblyReference.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.AssemblyInfoInputs.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.AssemblyInfo.cs
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.Orders_ShoppingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.build.Orders_ShoppingApp.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Orders_ShoppingApp.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Orders_ShoppingApp.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\scopedcss\bundle\Orders_ShoppingApp.styles.css
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_S.81C31551.Up2Date
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\refint\Orders_ShoppingApp.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.pdb
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.genruntimeconfig.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Important\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\ref\Orders_ShoppingApp.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\appsettings.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.exe
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.deps.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.runtimeconfig.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.pdb
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.AssemblyReference.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.AssemblyInfoInputs.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.AssemblyInfo.cs
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.Orders_ShoppingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.build.Orders_ShoppingApp.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Orders_ShoppingApp.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Orders_ShoppingApp.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\scopedcss\bundle\Orders_ShoppingApp.styles.css
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_S.81C31551.Up2Date
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\refint\Orders_ShoppingApp.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.pdb
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.genruntimeconfig.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\ref\Orders_ShoppingApp.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\appsettings.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.exe
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.deps.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.runtimeconfig.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.pdb
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.AssemblyReference.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.AssemblyInfoInputs.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.AssemblyInfo.cs
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.Orders_ShoppingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.build.Orders_ShoppingApp.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Orders_ShoppingApp.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Orders_ShoppingApp.props
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\scopedcss\bundle\Orders_ShoppingApp.styles.css
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_S.81C31551.Up2Date
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\refint\Orders_ShoppingApp.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.pdb
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.genruntimeconfig.cache
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2024\Agil udvikling\Code\Origin_To_WorkOn\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\ref\Orders_ShoppingApp.dll
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.exe
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.deps.json
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.runtimeconfig.json
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.dll
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.pdb
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.AssemblyReference.cache
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.AssemblyInfoInputs.cache
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.AssemblyInfo.cs
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.Orders_ShoppingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.build.Orders_ShoppingApp.props
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Orders_ShoppingApp.props
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Orders_ShoppingApp.props
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\scopedcss\bundle\Orders_ShoppingApp.styles.css
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_S.81C31551.Up2Date
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.dll
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\refint\Orders_ShoppingApp.dll
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.pdb
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.genruntimeconfig.cache
+C:\Users\Hayat\Documents\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\ref\Orders_ShoppingApp.dll
